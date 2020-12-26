@@ -24,7 +24,7 @@ exports.handler = async event => {
   try {
     const intent = await stripe.paymentIntents.create({
       amount: calculateOrderAmount(order.items),
-      currency: "usd",
+      currency: "idr",
       payment_method: order.payment_method_id,
 
       // A PaymentIntent can be confirmed some time after creation,
