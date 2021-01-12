@@ -5,7 +5,7 @@ import { DENOMINATION } from "../../providers/inventoryProvider"
 import { FaLongArrowAltLeft } from "react-icons/fa"
 import { Link } from "gatsby"
 import Image from "../components/Image"
-import uuid from "uuid/v4"
+
 
 import {
   CardElement,
