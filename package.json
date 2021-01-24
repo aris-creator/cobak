@@ -40,11 +40,6 @@
   },
   "keywords": [
     "gatsby"
-    "payment",
-    "gateway",
-    "api",
-    "midtrans",
-    "node"
     ],
   "license": "MIT",
   "scripts": {
