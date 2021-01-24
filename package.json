@@ -37,11 +37,11 @@
     "uuid": "^3.4.0"
   },
   "devDependencies": {
-    "prettier": "^1.19.1",
+    "prettier": "^1.19.1"
   },
   "keywords": [
     "gatsby"
-    ],
+  ],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -54,10 +54,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/midtrans/midtrans-nodejs-client.git"
+    "url": "https://github.com/dabit3/gatsby-ecommerce-professional"
   },
-  "homepage": "https://github.com/midtrans/midtrans-nodejs-client",
   "bugs": {
-    "url": "https://github.com/midtrans/midtrans-nodejs-client/issues"
+    "url": "https://github.com/dabit3/gatsby-ecommerce-professional/issues"
   }
 }
