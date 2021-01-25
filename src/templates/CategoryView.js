@@ -28,6 +28,9 @@ const CategoryView = (props) => {
                   )
                 })
               }
+          </div>
+        </div>
+        </div>
           <div>
             <div className="flex flex-1 flex-wrap flex-row">
               {
