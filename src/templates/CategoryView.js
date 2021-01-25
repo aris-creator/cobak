@@ -14,23 +14,6 @@ const CategoryView = (props) => {
             <h1 className="text-5xl font-light">{titleIfy(title)}</h1>
           </div>
 
-         <div>
-            <div className="flex flex-1 flex-wrap flex-row">
-              {
-                items.map((item, index) => {
-                  return (
-                    <ListItem
-                      key={index}
-                      link={slugify(item.name)}
-                      title={item.name}
-                      imageSrc={item.image}
-                    />
-                  )
-                })
-              }
-          </div>
-        </div>
-        </div>
           <div>
             <div className="flex flex-1 flex-wrap flex-row">
               {
