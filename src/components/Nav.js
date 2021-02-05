@@ -1,5 +1,5 @@
 import React from 'react'
-
+import styled from "styled-components"
 import { titleIfy, slugify } from '../../utils/helpers'
 import { FaShoppingCart, FaCircle } from 'react-icons/fa';
 import { Link } from "gatsby"
