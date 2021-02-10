@@ -43,4 +43,4 @@ const Navbarlink = ({ menuState, setMenuState }) => {
   );
 };
 
-export default Navbarlink;
+export default Navbarlinks;
