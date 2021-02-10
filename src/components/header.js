@@ -1,7 +1,8 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
-import { GiHamburgerMenu } from "react-icons/gi";
+import { GiHamburgerMenu } from "react-icons/gi"
+import { IoCloseSharp } from "react-icons/io5"
 
 const Header = () => {
   const [menuState, setMenuState] = useState(false);
