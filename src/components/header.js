@@ -30,22 +30,17 @@ const Header = () => {
           </$Link>
         </li>
         <li>
-          <Link activeClassName="a-header" href="/overview">
-            <a className="header">Burger Station</a>
+          <Link activeClassName="a-header" href="/inventory">
+            <a className="header">like</a>
           </$Link>
         </li>
         <li>
-          <Link activeClassName="a-header" href="/overview">
-            <a className="header">Donuts Station</a>
+          <Link activeClassName="a-header" href="/inventory">
+            <a className="header">favorit</a>
           </$Link>
         </li>
         <li>
-          <Link activeClassName="a-header" href="/overview">
-            <a className="header">Jajan Pasar Station</a>
-          </$Link>
-        </li>
-        <li>
-          <Link activeClassName="a-header" href="/overview">
+          <Link activeClassName="a-header" href="/inventory">
             <a className="header">Our Store</a>
           </$Link>
         </li>
