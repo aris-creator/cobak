@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import React from "react"
 import { GiHamburgerMenu } from "react-icons/gi"
 import { IoCloseSharp } from "react-icons/io5"
-import Navbarlini from './src/components/Navbarlink'
+import Navbarlinks from './src/components/Navbarlinks'
 import './src/css/site.css
 
 const Header = () => {
