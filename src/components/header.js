@@ -18,7 +18,7 @@ const Header = () => {
           <div className="text-4xl cursor-pointer">P.</div>
         </$Link>
       </div>
-      <Categoryview menuState={menuState} setMenuState={setMenuState} />
+      <Navbarlink menuState={menuState} setMenuState={setMenuState} />
       <ul className="text-lg items-center hidden md:flex">
         <li>
           <Link activeClassName="a-header" href="/">
