@@ -39,7 +39,16 @@ class Layout extends React.Component {
             }));
             links.unshift({
               name: 'Home',
-              link: '/'
+              link: 'https://cobak-git-master.aris-creator.vercel.app/'
+            links.unshift({
+              name: 'Menu',
+              link: 'https://cobak-git-master.aris-creator.vercel.app/'
+            links.unshift({
+              name: 'like',
+              link: 'https://cobak-git-master.aris-creator.vercel.app/'
+            links.unshift({
+              name: 'favorit',
+              link: 'https://cobak-git-master.aris-creator.vercel.app/'
             })
 
             return (
