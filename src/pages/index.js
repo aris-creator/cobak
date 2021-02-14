@@ -23,8 +23,8 @@ const Home = ({ data: gqlData }) => {
         flex lg:flex-row flex-col">
           <div className="pt-4 pl-2 sm:pt-12 sm:pl-12 flex flex-col">
             <Tag
-              year="2020"
-              category="BURGER"
+              year="2021"
+              category="Alaraja Food Store"
             />
             <Center
               price="20000"
